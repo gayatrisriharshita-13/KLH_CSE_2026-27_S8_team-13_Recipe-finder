@@ -1,0 +1,11 @@
+Vegetable Fried Rice
+Ingredients: rice, carrot, beans, onion, garlic, soy sauce, oil
+Amounts: 2 cups cooked rice, 1 carrot, half cup beans, 1 onion, 2 cloves garlic, 1 tbsp soy sauce, 2 tbsp oil
+PreparationTime: 10
+CookingTime: 20
+TotalTime: 30
+Servings: 3
+Cuisine: Chinese
+Category: Lunch
+Diet: Vegetarian
+Instructions: Heat oil in a wok. Add chopped garlic and onion and saute for a minute. Add carrot and beans and cook until slightly tender. Add cooked rice and mix well. Add soy sauce and salt. Stir fry everything on high heat for a few minutes and serve hot.

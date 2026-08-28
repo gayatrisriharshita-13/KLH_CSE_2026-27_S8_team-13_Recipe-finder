@@ -1,0 +1,11 @@
+Tomato Sandwich
+Ingredients: tomato, onion, cheese, bread, butter
+Amounts: 1 tomato, 1 onion, 2 cheese slices, 4 bread slices, 1 tbsp butter
+PreparationTime: 5
+CookingTime: 5
+TotalTime: 10
+Servings: 2
+Cuisine: Continental
+Category: Snack
+Diet: Vegetarian
+Instructions: Slice the tomato and onion. Spread butter on the bread slices. Add tomato, onion and cheese between the bread slices. Heat a pan and toast the sandwich until the bread becomes golden and the cheese melts. Serve hot.

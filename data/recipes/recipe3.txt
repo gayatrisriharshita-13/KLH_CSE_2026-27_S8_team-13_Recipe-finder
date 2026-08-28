@@ -1,0 +1,11 @@
+Paneer Masala
+Ingredients: paneer, tomato, onion, garlic, ginger, spices, oil
+Amounts: 200 g paneer, 2 tomatoes, 1 onion, 3 cloves garlic, 1 inch ginger, 2 tsp spices, 2 tbsp oil
+PreparationTime: 15
+CookingTime: 25
+TotalTime: 40
+Servings: 3
+Cuisine: Indian
+Category: Dinner
+Diet: Vegetarian
+Instructions: Cut the paneer into cubes. Heat oil in a pan and saute onion, garlic and ginger. Add chopped tomatoes and cook until soft. Add spices and mix well. Add paneer cubes and cook for several minutes. Add a little water and simmer until the gravy becomes thick. Serve hot with rice or bread.
