@@ -1,0 +1,11 @@
+Masala Omelette
+Ingredients: egg, onion, tomato, green chilli, oil, salt
+Amounts: 2 eggs, 1 onion, 1 tomato, 1 green chilli, 1 tbsp oil, half tsp salt
+PreparationTime: 5
+CookingTime: 5
+TotalTime: 10
+Servings: 1
+Cuisine: Indian
+Category: Breakfast
+Diet: Non-Vegetarian
+Instructions: Beat the eggs with chopped onion, tomato, chilli and salt. Heat oil in a pan. Pour in the mixture and cook until set. Flip once and serve hot.

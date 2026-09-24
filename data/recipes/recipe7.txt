@@ -1,0 +1,11 @@
+Poha
+Ingredients: poha, onion, potato, peanuts, turmeric, oil, lemon
+Amounts: 1 cup flattened rice, 1 onion, 1 potato, 1 handful peanuts, half tsp turmeric, 1 tbsp oil, 1 lemon
+PreparationTime: 10
+CookingTime: 10
+TotalTime: 20
+Servings: 2
+Cuisine: Indian
+Category: Breakfast
+Diet: Vegan
+Instructions: Rinse the poha and drain well. Fry peanuts, onion and diced potato in oil. Add turmeric and salt, then the poha. Mix gently, steam for 2 minutes and finish with lemon juice.
