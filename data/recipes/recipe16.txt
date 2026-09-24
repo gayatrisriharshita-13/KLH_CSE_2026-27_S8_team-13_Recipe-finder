@@ -1,0 +1,11 @@
+Garlic Bread
+Ingredients: bread, butter, garlic, oregano
+Amounts: 4 bread slices, 3 tbsp butter, 3 cloves garlic, 1 tsp oregano
+PreparationTime: 5
+CookingTime: 8
+TotalTime: 13
+Servings: 2
+Cuisine: Italian
+Category: Snack
+Diet: Vegetarian
+Instructions: Mash the butter with crushed garlic and oregano. Spread it on the bread slices. Toast in a hot pan or oven until crisp and golden.
