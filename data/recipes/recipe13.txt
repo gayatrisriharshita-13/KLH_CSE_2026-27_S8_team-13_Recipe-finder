@@ -1,0 +1,11 @@
+Veg Noodles
+Ingredients: noodles, carrot, cabbage, onion, soy sauce, oil
+Amounts: 200 g noodles, 1 carrot, half cup cabbage, 1 onion, 1 tbsp soy sauce, 2 tbsp oil
+PreparationTime: 10
+CookingTime: 10
+TotalTime: 20
+Servings: 2
+Cuisine: Chinese
+Category: Dinner
+Diet: Vegan
+Instructions: Boil the noodles and drain. Stir fry sliced onion, carrot and cabbage in oil on high heat. Add the noodles and soy sauce. Toss well for 2 minutes and serve hot.

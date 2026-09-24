@@ -1,0 +1,11 @@
+Chicken Curry
+Ingredients: chicken, tomato, onion, garlic, ginger, spices, oil
+Amounts: 500 g chicken, 2 tomatoes, 2 onions, 3 cloves garlic, 1 inch ginger, 2 tsp spices, 3 tbsp oil
+PreparationTime: 15
+CookingTime: 35
+TotalTime: 50
+Servings: 4
+Cuisine: Indian
+Category: Dinner
+Diet: Non-Vegetarian
+Instructions: Brown the onions in oil. Add garlic, ginger and spices. Add tomatoes and cook to a paste. Add the chicken with a little water. Cover and simmer until the chicken is cooked through.

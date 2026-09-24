@@ -1,0 +1,11 @@
+Cheese Omelette
+Ingredients: egg, cheese, butter, pepper
+Amounts: 2 eggs, 2 cheese slices, 1 tbsp butter, a pinch of pepper
+PreparationTime: 3
+CookingTime: 4
+TotalTime: 7
+Servings: 1
+Cuisine: Continental
+Category: Breakfast
+Diet: Non-Vegetarian
+Instructions: Whisk the eggs with pepper. Melt butter in a pan and pour in the eggs. Place cheese on one half when nearly set. Fold over and cook for another minute.
