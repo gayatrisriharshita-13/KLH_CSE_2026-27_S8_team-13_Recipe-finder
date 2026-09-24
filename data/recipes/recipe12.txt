@@ -1,0 +1,11 @@
+Egg Fried Rice
+Ingredients: rice, egg, carrot, garlic, soy sauce, oil
+Amounts: 2 cups cooked rice, 2 eggs, 1 carrot, 2 cloves garlic, 1 tbsp soy sauce, 2 tbsp oil
+PreparationTime: 10
+CookingTime: 10
+TotalTime: 20
+Servings: 2
+Cuisine: Chinese
+Category: Lunch
+Diet: Non-Vegetarian
+Instructions: Scramble the eggs in hot oil and set aside. Fry garlic and grated carrot for a minute. Add the rice and soy sauce and toss on high heat. Fold the eggs back in and serve.
