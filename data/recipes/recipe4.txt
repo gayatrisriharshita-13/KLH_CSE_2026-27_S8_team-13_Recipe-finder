@@ -1,0 +1,11 @@
+Cheese Toast
+Ingredients: cheese, bread, butter, oregano, salt
+Amounts: 4 bread slices, 4 cheese slices, 1 tbsp butter, 1 tsp oregano, half tsp salt
+PreparationTime: 5
+CookingTime: 10
+TotalTime: 15
+Servings: 2
+Cuisine: Continental
+Category: Breakfast
+Diet: Vegetarian
+Instructions: Spread butter on the bread slices. Place cheese on each slice. Sprinkle oregano and a little salt. Toast the bread in a pan or oven until the cheese melts and the bread becomes crispy. Serve immediately.
