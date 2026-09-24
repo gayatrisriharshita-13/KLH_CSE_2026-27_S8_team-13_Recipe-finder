@@ -1,0 +1,11 @@
+Vegetable Soup
+Ingredients: carrot, beans, onion, tomato, garlic, pepper, butter
+Amounts: 1 carrot, half cup beans, 1 onion, 1 tomato, 2 cloves garlic, half tsp pepper, 1 tbsp butter
+PreparationTime: 10
+CookingTime: 20
+TotalTime: 30
+Servings: 3
+Cuisine: Continental
+Category: Lunch
+Diet: Vegetarian
+Instructions: Saute garlic and onion in butter. Add chopped carrot, beans and tomato. Pour in three cups of water and simmer for 15 minutes. Season with pepper and salt.
