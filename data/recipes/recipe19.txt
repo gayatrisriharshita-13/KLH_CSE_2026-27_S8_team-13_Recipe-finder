@@ -1,0 +1,11 @@
+Tomato Soup
+Ingredients: tomato, onion, garlic, butter, pepper
+Amounts: 4 tomatoes, 1 onion, 2 cloves garlic, 1 tbsp butter, half tsp pepper
+PreparationTime: 5
+CookingTime: 20
+TotalTime: 25
+Servings: 2
+Cuisine: Continental
+Category: Snack
+Diet: Vegetarian
+Instructions: Saute onion and garlic in butter. Add chopped tomatoes and two cups of water. Simmer for 15 minutes, then blend smooth. Season with pepper and salt and serve hot.

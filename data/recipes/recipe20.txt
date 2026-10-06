@@ -1,0 +1,11 @@
+Banana Pancakes
+Ingredients: banana, wheat flour, egg, milk, butter
+Amounts: 2 bananas, 1 cup wheat flour, 1 egg, 1 cup milk, 1 tbsp butter
+PreparationTime: 10
+CookingTime: 10
+TotalTime: 20
+Servings: 2
+Cuisine: Continental
+Category: Breakfast
+Diet: Vegetarian
+Instructions: Mash the bananas and mix with egg and milk. Stir in the flour to make a batter. Cook small ladles on a buttered pan until bubbles form. Flip and cook until golden.
