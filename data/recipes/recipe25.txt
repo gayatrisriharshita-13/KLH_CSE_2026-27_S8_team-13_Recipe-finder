@@ -1,0 +1,11 @@
+Lemon Rice
+Ingredients: rice, lemon, peanuts, turmeric, mustard seeds, oil
+Amounts: 2 cups cooked rice, 1 lemon, 1 handful peanuts, half tsp turmeric, 1 tsp mustard seeds, 1 tbsp oil
+PreparationTime: 5
+CookingTime: 10
+TotalTime: 15
+Servings: 2
+Cuisine: Indian
+Category: Lunch
+Diet: Vegan
+Instructions: Fry mustard seeds and peanuts in oil. Add turmeric and the rice. Mix well and cook for 2 minutes. Turn off the heat and stir in lemon juice and salt.

@@ -1,0 +1,11 @@
+Fish Fry
+Ingredients: fish, spices, lemon, oil, salt
+Amounts: 4 fish fillets, 1 tsp spices, 1 lemon, 3 tbsp oil, half tsp salt
+PreparationTime: 10
+CookingTime: 10
+TotalTime: 20
+Servings: 2
+Cuisine: Indian
+Category: Dinner
+Diet: Non-Vegetarian
+Instructions: Marinate the fish with spices, lemon juice and salt for 10 minutes. Heat oil in a pan. Shallow fry the fish for 4 to 5 minutes on each side until crisp.
