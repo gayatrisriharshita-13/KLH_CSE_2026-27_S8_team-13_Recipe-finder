@@ -1,0 +1,11 @@
+Greek Salad
+Ingredients: cucumber, tomato, onion, cheese, olive oil, oregano
+Amounts: 2 cucumbers, 2 tomatoes, 1 onion, 100 g feta, 2 tbsp olive oil, 1 tsp oregano
+PreparationTime: 10
+CookingTime: 0
+TotalTime: 10
+Servings: 2
+Cuisine: Mediterranean
+Category: Lunch
+Diet: Vegetarian
+Instructions: Chop the cucumbers, tomatoes and onion into chunks. Add cubes of feta. Drizzle with olive oil, sprinkle oregano and toss gently.

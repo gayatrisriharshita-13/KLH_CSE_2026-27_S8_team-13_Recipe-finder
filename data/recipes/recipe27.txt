@@ -1,0 +1,11 @@
+Spaghetti Aglio e Olio
+Ingredients: pasta, garlic, olive oil, chilli flakes, salt
+Amounts: 200 g pasta, 5 cloves garlic, 3 tbsp olive oil, 1 tsp chilli flakes, half tsp salt
+PreparationTime: 5
+CookingTime: 12
+TotalTime: 17
+Servings: 2
+Cuisine: Italian
+Category: Dinner
+Diet: Vegan
+Instructions: Boil the pasta in salted water. Warm olive oil and gently cook sliced garlic and chilli flakes. Toss in the drained pasta with a spoon of pasta water. Serve at once.
