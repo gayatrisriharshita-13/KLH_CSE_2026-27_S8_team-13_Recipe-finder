@@ -1,0 +1,11 @@
+Banana Milkshake
+Ingredients: banana, milk, sugar
+Amounts: 2 bananas, 2 cups milk, 2 tsp sugar
+PreparationTime: 5
+CookingTime: 0
+TotalTime: 5
+Servings: 2
+Cuisine: Continental
+Category: Snack
+Diet: Vegetarian
+Instructions: Chop the bananas. Blend with cold milk and sugar until smooth. Pour into glasses and serve chilled.

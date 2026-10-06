@@ -1,0 +1,11 @@
+Rice Kheer
+Ingredients: rice, milk, sugar, cardamom, nuts
+Amounts: half cup rice, 1 litre milk, 3 tbsp sugar, 4 cardamom pods, 1 handful nuts
+PreparationTime: 5
+CookingTime: 35
+TotalTime: 40
+Servings: 4
+Cuisine: Indian
+Category: Dessert
+Diet: Vegetarian
+Instructions: Wash the rice and boil it in the milk on low heat. Stir often until thick and creamy. Add sugar and crushed cardamom. Cook 5 more minutes and top with nuts.
