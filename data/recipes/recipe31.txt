@@ -1,0 +1,11 @@
+Vegetable Pulao
+Ingredients: rice, carrot, beans, onion, spices, ghee
+Amounts: 1 cup rice, 1 carrot, half cup beans, 1 onion, 1 tsp spices, 2 tbsp ghee
+PreparationTime: 10
+CookingTime: 20
+TotalTime: 30
+Servings: 3
+Cuisine: Indian
+Category: Lunch
+Diet: Vegetarian
+Instructions: Fry sliced onion in ghee. Add carrot, beans and spices. Add the washed rice and two cups of water. Cover and cook until the rice is fluffy.
