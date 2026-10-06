@@ -1,0 +1,11 @@
+Masala Chai
+Ingredients: water, milk, tea, ginger, sugar
+Amounts: 2 cups water, 1 cup milk, 2 tsp tea leaves, 1 inch ginger, 2 tsp sugar
+PreparationTime: 2
+CookingTime: 8
+TotalTime: 10
+Servings: 2
+Cuisine: Indian
+Category: Snack
+Diet: Vegetarian
+Instructions: Boil water with crushed ginger and tea leaves. Add milk and sugar. Simmer for 3 minutes, strain into cups and serve hot.

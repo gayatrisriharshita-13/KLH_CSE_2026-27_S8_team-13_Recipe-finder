@@ -1,0 +1,11 @@
+Bread Upma
+Ingredients: bread, onion, tomato, mustard seeds, oil
+Amounts: 4 bread slices, 1 onion, 1 tomato, 1 tsp mustard seeds, 1 tbsp oil
+PreparationTime: 5
+CookingTime: 8
+TotalTime: 13
+Servings: 2
+Cuisine: Indian
+Category: Breakfast
+Diet: Vegan
+Instructions: Cut the bread into small cubes. Splutter mustard seeds in oil and saute onion and tomato. Add the bread, salt and a sprinkle of water. Toss until soft and well coated.
