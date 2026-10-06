@@ -1,0 +1,11 @@
+Fruit Chaat
+Ingredients: apple, banana, grapes, spices, lemon
+Amounts: 1 apple, 1 banana, 1 cup grapes, 1 tsp chaat masala, 1 lemon
+PreparationTime: 10
+CookingTime: 0
+TotalTime: 10
+Servings: 2
+Cuisine: Indian
+Category: Snack
+Diet: Vegan
+Instructions: Chop the apple and banana. Add the grapes. Sprinkle chaat masala and a squeeze of lemon. Toss and serve right away.

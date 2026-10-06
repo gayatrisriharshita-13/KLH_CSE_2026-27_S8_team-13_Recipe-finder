@@ -1,0 +1,11 @@
+Egg Curry
+Ingredients: egg, tomato, onion, spices, oil, garlic
+Amounts: 4 boiled eggs, 2 tomatoes, 2 onions, 2 tsp spices, 2 tbsp oil, 2 cloves garlic
+PreparationTime: 10
+CookingTime: 20
+TotalTime: 30
+Servings: 3
+Cuisine: Indian
+Category: Dinner
+Diet: Non-Vegetarian
+Instructions: Saute onion and garlic in oil. Add tomatoes and spices and cook to a thick gravy. Add a cup of water and the halved eggs. Simmer for 5 minutes and serve.
