@@ -1,0 +1,11 @@
+Curd Rice
+Ingredients: rice, curd, mustard seeds, green chilli, oil
+Amounts: 1 cup cooked rice, 1 cup curd, 1 tsp mustard seeds, 1 green chilli, 1 tbsp oil
+PreparationTime: 5
+CookingTime: 5
+TotalTime: 10
+Servings: 2
+Cuisine: Indian
+Category: Lunch
+Diet: Vegetarian
+Instructions: Mash the rice lightly and mix with curd and salt. Splutter mustard seeds and chopped chilli in hot oil. Pour over the rice and mix well. Serve cool.

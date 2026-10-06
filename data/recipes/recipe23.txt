@@ -1,0 +1,11 @@
+Potato Fry
+Ingredients: potato, spices, oil, mustard seeds, salt
+Amounts: 3 potatoes, 1 tsp spices, 2 tbsp oil, 1 tsp mustard seeds, half tsp salt
+PreparationTime: 10
+CookingTime: 15
+TotalTime: 25
+Servings: 3
+Cuisine: Indian
+Category: Lunch
+Diet: Vegan
+Instructions: Cut the potatoes into small cubes. Splutter mustard seeds in hot oil. Add potatoes, spices and salt. Cover and cook on low heat, stirring now and then, until crisp.
