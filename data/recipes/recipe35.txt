@@ -1,0 +1,11 @@
+Paneer Bhurji
+Ingredients: paneer, onion, tomato, green chilli, spices, oil
+Amounts: 200 g paneer, 1 onion, 1 tomato, 1 green chilli, 1 tsp spices, 1 tbsp oil
+PreparationTime: 5
+CookingTime: 10
+TotalTime: 15
+Servings: 2
+Cuisine: Indian
+Category: Dinner
+Diet: Vegetarian
+Instructions: Crumble the paneer. Saute onion, chilli and tomato in oil. Add spices and the paneer. Cook for 3 minutes and serve with bread.
